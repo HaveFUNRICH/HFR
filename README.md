@@ -13,8 +13,8 @@
 [![python](https://img.shields.io/badge/Enhancing-Python%20skill-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
 [![python](https://img.shields.io/badge/Learning-PythonGUI%20skill-blue?logo=python&logoColor=white&style=for-the-badge)](https://betterprogramming.pub/7-must-try-gui-libraries-in-python-34c8f6266363)
 [![swift](https://img.shields.io/badge/Learning-Swift%20skill-orange?logo=swift&logoColor=white&style=for-the-badge)](https://swift.org)
-[![html](https://img.shields.io/badge/Learning-HTML-orange?logo=html&logoColor=white&style=for-the-badge)](https://html.com/)
-[![css](https://img.shields.io/badge/Learning-css-orange?logo=css&logoColor=white&style=for-the-badge)](https://www.w3schools.com/css/)
+[![html](https://img.shields.io/badge/Learning-HTML-orange?logo=html5&logoColor=white&style=for-the-badge)](https://html.com/)
+[![css](https://img.shields.io/badge/Learning-css-orange?logo=CSS3&logoColor=white&style=for-the-badge)](https://www.w3schools.com/css/)
 \
 Enhancing my python skill further
 \
@@ -40,3 +40,5 @@ Learn Raspberry pi hosting Website 📶
 [Markdown Tutorial](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 \
 [Python3 Documentation](https://docs.python.org/3/)
+\
+[Shields](https://www.shields.io)
